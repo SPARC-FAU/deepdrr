@@ -40,6 +40,7 @@ dependencies = [
     "killeengeo",
     "strenum",
     "open3d",
+    "numba",
 ]
 
 [project.optional-dependencies]
